@@ -12,9 +12,6 @@ module.exports = {
     },
     entry: "./src/index.js",
     devtool: 'inline-source-map',
-    devServer: {
-        static: './dist',
-    },
     output: {
         filename: "index.[contenthash].js"
     },
