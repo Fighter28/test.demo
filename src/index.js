@@ -7,15 +7,15 @@ div.innerHTML = `
 <img src="${png}">
 `
 
-const button = doucment.createElement('button')
+const button = document.createElement('button')
 button.innerText = '懒加载'
-div.appendChild(button)
 button.onclick = () => {
-    const lazy = import('./lazy')
-    Promise.then((module) => {
+    const promise = import('./lazy')
+    promise.then((module) => {
         const fn = module.default
         fn()
     }, () => {
 
     })
 }
+div.appendChild(button)
