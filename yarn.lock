@@ -742,7 +742,7 @@ clone-deep@^4.0.1:
 
 clone@^2.1.1:
   version "2.1.2"
-  resolved "https://registry.npm.taobao.org/clone/download/clone-2.1.2.tgz"
+  resolved "https://registry.nlark.com/clone/download/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
   integrity sha1-G39Ln1kfHo+DZwQBYANFoCiHQ18=
 
 collection-visit@^1.0.0:
@@ -2427,7 +2427,7 @@ kind-of@^6.0.0, kind-of@^6.0.2:
 
 less-loader@^5.0.0:
   version "5.0.0"
-  resolved "https://registry.nlark.com/less-loader/download/less-loader-5.0.0.tgz?cache=0&sync_timestamp=1625230455763&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fless-loader%2Fdownload%2Fless-loader-5.0.0.tgz"
+  resolved "https://registry.nlark.com/less-loader/download/less-loader-5.0.0.tgz?cache=0&sync_timestamp=1625230463215&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fless-loader%2Fdownload%2Fless-loader-5.0.0.tgz#498dde3a6c6c4f887458ee9ed3f086a12ad1b466"
   integrity sha1-SY3eOmxsT4h0WO6e0/CGoSrRtGY=
   dependencies:
     clone "^2.1.1"
@@ -2436,7 +2436,7 @@ less-loader@^5.0.0:
 
 less@^3.10.3:
   version "3.13.1"
-  resolved "https://registry.npm.taobao.org/less/download/less-3.13.1.tgz"
+  resolved "https://registry.npm.taobao.org/less/download/less-3.13.1.tgz#0ebc91d2a0e9c0c6735b83d496b0ab0583077909"
   integrity sha1-DryR0qDpwMZzW4PUlrCrBYMHeQk=
   dependencies:
     copy-anything "^2.0.1"
@@ -2493,7 +2493,7 @@ locate-path@^3.0.0:
 
 lodash.clonedeep@^4.5.0:
   version "4.5.0"
-  resolved "https://registry.npm.taobao.org/lodash.clonedeep/download/lodash.clonedeep-4.5.0.tgz"
+  resolved "https://registry.npm.taobao.org/lodash.clonedeep/download/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha1-4j8/nE+Pvd6HJSnBBxhXoIblzO8=
 
 lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.20, lodash@^4.17.21, lodash@^4.17.3:
@@ -2764,7 +2764,7 @@ nanomatch@^1.2.9:
 
 native-request@^1.0.5:
   version "1.1.0"
-  resolved "https://registry.nlark.com/native-request/download/native-request-1.1.0.tgz"
+  resolved "https://registry.nlark.com/native-request/download/native-request-1.1.0.tgz?cache=0&sync_timestamp=1630539980163&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fnative-request%2Fdownload%2Fnative-request-1.1.0.tgz#acdb30fe2eefa3e1bc8c54b3a6852e9c5c0d3cb0"
   integrity sha1-rNsw/i7vo+G8jFSzpoUunFwNPLA=
 
 negotiator@0.6.2:
@@ -3962,7 +3962,7 @@ style-loader@^1.0.1:
 
 stylus-loader@^3.0.2:
   version "3.0.2"
-  resolved "https://registry.nlark.com/stylus-loader/download/stylus-loader-3.0.2.tgz"
+  resolved "https://registry.nlark.com/stylus-loader/download/stylus-loader-3.0.2.tgz#27a706420b05a38e038e7cacb153578d450513c6"
   integrity sha1-J6cGQgsFo44DjnyssVNXjUUFE8Y=
   dependencies:
     loader-utils "^1.0.2"
@@ -4424,7 +4424,7 @@ websocket-extensions@>=0.1.1:
 
 when@~3.6.x:
   version "3.6.4"
-  resolved "https://registry.npm.taobao.org/when/download/when-3.6.4.tgz"
+  resolved "https://registry.nlark.com/when/download/when-3.6.4.tgz#473b517ec159e2b85005497a13983f095412e34e"
   integrity sha1-RztRfsFZ4rhQBUl6E5g/CVQS404=
 
 which-boxed-primitive@^1.0.2:

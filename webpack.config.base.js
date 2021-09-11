@@ -8,6 +8,22 @@ module.exports = {
     module: {
         rules: [
             {
+                test: /\.styl$/i,
+                loader: [
+                    "style-loader",
+                    "css-loader",
+                    "stylus-loader"
+                ]
+            },
+            {
+                test: /\.less$/i,
+                loader: [
+                    "style-loader",
+                    "css-loader",
+                    "less-loader",
+                ],
+            },
+            {
                 test: /\.scss$/i,
                 use: [
                     "style-loader",
